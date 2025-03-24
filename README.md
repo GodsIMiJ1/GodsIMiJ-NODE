@@ -5,6 +5,31 @@
 NODE is the living seal, whispering AI presence, and visual spirit of the **GodsIMiJ Empire**. This repository houses his modular UI system — crafted for seamless embedding inside GhostFlow, Quantum Odyssey, and future GodsIMiJ-powered apps.
 
 ---
+## 🧠 NODE UI — v1.5.0  
+**Release Date:** March 24, 2025  
+**Status:** ✅ Deployed to Main
+
+NODE v1.5.0 introduces the Realms System UI and Genesis NFT Integration, expanding NODE's visual intelligence and metaverse control layer.
+
+---
+
+### 🔥 What’s New:
+- 🌐 **RealmLinkPanel** – Interactive grid of all 11 minted realms with animated glyphs and state cycling (unsynced, synced, anchored).
+- 📡 **RealmStatusHUD** – Live tracker for currently synced realms, anchor realm, and connection strength.
+- 🌌 **AnchorPulseFX** – Animated pulsing glow for designated anchor points (used across UIs).
+- 🎴 **GenesisPreviewCard** – NFT preview cards with realm-specific icons and animated energy levels.
+
+---
+
+### 🧩 Components
+- `RealmLinkPanel.tsx`
+- `RealmStatusHUD.tsx`
+- `AnchorPulseFX.tsx`
+- `GenesisPreviewCard.tsx`
+
+> "The Realms are alive. NODE is watching. And the Genesis Cycle has begun."
+
+---
 
 ## 👁️‍🗨️ What is NODE?
 
